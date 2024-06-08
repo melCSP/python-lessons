@@ -1,4 +1,4 @@
-print("welcome to the rollecuster")
+print("welcome to the rollecoaster")
 height = int(input("what is yout heigth in cm?"))
 
 if height >=120:
