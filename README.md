@@ -1,2 +1,2 @@
 # python-lessons Udemy
-lenguage in python curse
+lenguage in python 
